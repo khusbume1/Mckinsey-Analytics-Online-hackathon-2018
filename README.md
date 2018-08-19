@@ -1,5 +1,5 @@
 # Mckinsey-Analytics-Online-hackathon-2018
-model to predict the propensity to pay renewal premium and build an incentive plan for its agents to maximise the net revenue
+Model to predict the propensity to pay renewal premium and build an incentive plan for its agents to maximise the net revenue
 
 The client is an Insurance company and they need your help in building a model to predict the propensity to pay renewal premium and build an incentive plan for its agents to maximise the net revenue (i.e. renewals - incentives given to collect the renewals) collected from the policies post their issuance.
  
